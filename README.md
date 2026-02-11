@@ -1,2 +1,4 @@
 # SOCIAL-MEDIA-DATA-MINING-TO-GAUGE-POSITIVE-OR-NEGATIVE-RESPONSES-TOWARDS-A-COMPANY
-Data Mining Research Paper 
+This project focuses on sentiment analysis of airline-related tweets to evaluate customer opinions expressed on social media. The study implements a complete data-mining pipeline, including data preprocessing, TF-IDF feature extraction, and multi-class sentiment classification using traditional machine learning models (Logistic Regression, Naive Bayes, and SVM) as well as a transformer-based deep learning model (BERT).
+
+By comparing classical linear models with contextual embeddings from BERT, the project highlights differences in accuracy, computational efficiency, and contextual understanding. The results demonstrate the strength of SVM on high-dimensional text data while also showcasing the contextual advantages of transformer architectures for real-world sentiment analysis tasks. 
